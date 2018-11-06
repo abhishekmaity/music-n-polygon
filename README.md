@@ -4,6 +4,6 @@
 # Patatap Clone
 This a 'lite' version of 'patatap' web app available on https://patatap-lite.herokuapp.com/
 
-The original fully functional app can be found on https://patatap.com/
+The web-app is inspired from the original app from on https://patatap.com/
 ## About
 Patatap is a portable animation and sound kit. With the touch of a finger create melodies charged with moving shapes.
